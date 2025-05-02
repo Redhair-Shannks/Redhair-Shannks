@@ -70,9 +70,15 @@ A passionate Full Stack Developer from India, dedicated to crafting innovative, 
 [<img
   align="left"
   alt="Codeforces"
-  src="https://cdn.simpleicons.org/codeforces"
+  src="./assets/codeforces-sponsored-by-ton.png"
   height="30"
 />](https://codeforces.com/profile/Sliced_Omelette)
+
+
+
+
+
+
 
 ***
 
