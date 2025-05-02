@@ -49,8 +49,9 @@ A passionate Full Stack Developer from India, dedicated to crafting innovative, 
 ## 🛠️ Languages and Tools
 
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=uditbhatt&layout=compact&theme=dracula&hide_border=true
 
+
+[![My Skills](https://skillicons.dev/icons?i=aws,bootstrap,cpp,css,django,express,flask,git,github,html,java,js,mongodb,nextjs,nodejs,py,react,tensorflow,tailwind&perline=10)](https://skillicons.dev)
 
 
 
@@ -65,11 +66,12 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=uditbhatt&layout=
 
 
 ## 📫 Connect with Me
-
-
+[<img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="30"/>](https://www.linkedin.com/in/udit-bhatt-67ba232a3/)
+[<img src="https://cdn.simpleicons.org/codeforces" alt="Codeforces" title="Codeforces" height="40"/>](https://codeforces.com/profile/Sliced_Omelette)
 
 
 
 
 
 I'm excited to bring my skills and passion to innovative projects and teams. If you're looking for a Full Stack Developer who's ready to make an impact, let's connect!
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Redhair-Shannks&layout=compact)
