@@ -1,4 +1,10 @@
-# Hi 👋, I'm Udit Bhatt
+<h1 align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Bangers&weight=900&size=42&pause=1000&color=1E90FF&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Udit+Bhatt"
+    alt="Typing SVG"
+  />
+</h1>
+
 
 A passionate Full Stack Developer...
 
