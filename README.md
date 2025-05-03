@@ -67,6 +67,8 @@ A passionate Full Stack Developer from India, dedicated to crafting innovative, 
 
 ## 📫 Connect with Me
 
+
+[<img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="30"/>](https://www.linkedin.com/in/udit-bhatt-67ba232a3/)
 [<img
   align="left"
   alt="Codeforces"
@@ -75,7 +77,7 @@ A passionate Full Stack Developer from India, dedicated to crafting innovative, 
 />](https://codeforces.com/profile/Sliced_Omelette)
 
 
-[<img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="30"/>](https://www.linkedin.com/in/udit-bhatt-67ba232a3/)
+
 
 
 
