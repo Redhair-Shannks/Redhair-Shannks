@@ -3,7 +3,7 @@
 A passionate Full Stack Developer...
 
 
-* 🎓 Education: B.Tech in Electronics and Communication Technology, IIIT Naya Raipur (2023-2027)
+
 
 
 
@@ -11,7 +11,7 @@ A passionate Full Stack Developer...
 
 
 
-* 🌱 Leveling up in: TypeScript, cloud computing
+* 🌱 Leveling up in: TypeScript,nextjs
 
 
 
