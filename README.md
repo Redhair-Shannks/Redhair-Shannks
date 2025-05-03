@@ -1,6 +1,6 @@
 # Hi 👋, I'm Udit Bhatt
 
-A passionate Full Stack Developer from India, dedicated to crafting innovative, scalable solutions. With a strong foundation in both front-end and back-end technologies, I thrive on turning complex challenges into seamless user experiences. My journey in tech is fueled by curiosity and a commitment to continuous learning—whether it's mastering new frameworks or optimizing algorithms. I'm eager to contribute to impactful projects and collaborate with forward-thinking teams.
+A passionate Full Stack Developer...
 
 
 * 🎓 Education: B.Tech in Electronics and Communication Technology, IIIT Naya Raipur (2023-2027)
